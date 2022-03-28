@@ -11,7 +11,8 @@
 npm start
 ```
 Приложение открывается на localhost
-<div align="center"><img src="https://i.ibb.co/FzZczgc/preview-project.gif" alt="ReviewProject"/></div>
+# Interface
+<p align="center"><img src="https://i.ibb.co/m44dh4Z/preview-project.gif" alt="ReviewProject"/></p>
 <div align="right">
   <img src="https://i.ibb.co/XLPJSyM/react-icon.png" alt="react" height="40px"/>
   <img src="https://i.ibb.co/3m5wrjD/icons8-javascript-is-a-high-level-interpreted-programming-language-48.png" alt="js" height="40px"/>
