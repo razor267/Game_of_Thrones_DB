@@ -12,7 +12,7 @@ npm start
 ```
 Приложение открывается на localhost
 # Interface
-<p align="center"><img src="https://i.ibb.co/m44dh4Z/preview-project.gif" alt="ReviewProject"/></p>
+<p align="center"><img src="https://i.ibb.co/7pdfh5m/preview-project.gif" alt="ReviewProject"/></p>
 <div align="right">
   <a href="https://reactjs.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
